@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio06.aula06\obj\Debug\exercicio06.aula06.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio06.aula06\obj\Debug\exercicio06.aula06.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio06.aula06\bin\Debug\exercicio06.aula06.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio06.aula06\bin\Debug\exercicio06.aula06.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio06.aula06\bin\Debug\exercicio06.aula06.pdb
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio06.aula06\obj\Debug\exercicio06.aula06.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio06.aula06\obj\Debug\exercicio06.aula06.pdb

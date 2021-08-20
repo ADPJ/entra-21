@@ -1,0 +1,7 @@
+C:\Users\guest01\Desktop\exercios aula 07.05.21\exercicio03.aula04\bin\Debug\exercicio03.aula04.exe.config
+C:\Users\guest01\Desktop\exercios aula 07.05.21\exercicio03.aula04\bin\Debug\exercicio03.aula04.exe
+C:\Users\guest01\Desktop\exercios aula 07.05.21\exercicio03.aula04\bin\Debug\exercicio03.aula04.pdb
+C:\Users\guest01\Desktop\exercios aula 07.05.21\exercicio03.aula04\obj\Debug\exercicio03.aula04.csprojAssemblyReference.cache
+C:\Users\guest01\Desktop\exercios aula 07.05.21\exercicio03.aula04\obj\Debug\exercicio03.aula04.csproj.CoreCompileInputs.cache
+C:\Users\guest01\Desktop\exercios aula 07.05.21\exercicio03.aula04\obj\Debug\exercicio03.aula04.exe
+C:\Users\guest01\Desktop\exercios aula 07.05.21\exercicio03.aula04\obj\Debug\exercicio03.aula04.pdb

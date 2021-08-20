@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\exercicio06.aula02\bin\Debug\exercicio06.aula02.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\exercicio06.aula02\bin\Debug\exercicio06.aula02.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\exercicio06.aula02\bin\Debug\exercicio06.aula02.pdb
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\exercicio06.aula02\obj\Debug\exercicio06.aula02.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\exercicio06.aula02\obj\Debug\exercicio06.aula02.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\exercicio06.aula02\obj\Debug\exercicio06.aula02.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\exercicio06.aula02\obj\Debug\exercicio06.aula02.pdb

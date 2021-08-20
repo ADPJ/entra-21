@@ -1,0 +1,6 @@
+C:\Users\guest01\Desktop\ENTRA21 C# 11.05.2021\AULA 05\exercicio resolvido\exercicio04.aula05\bin\Release\exercicio04.aula05.exe.config
+C:\Users\guest01\Desktop\ENTRA21 C# 11.05.2021\AULA 05\exercicio resolvido\exercicio04.aula05\bin\Release\exercicio04.aula05.exe
+C:\Users\guest01\Desktop\ENTRA21 C# 11.05.2021\AULA 05\exercicio resolvido\exercicio04.aula05\bin\Release\exercicio04.aula05.pdb
+C:\Users\guest01\Desktop\ENTRA21 C# 11.05.2021\AULA 05\exercicio resolvido\exercicio04.aula05\obj\Release\exercicio04.aula05.csproj.CoreCompileInputs.cache
+C:\Users\guest01\Desktop\ENTRA21 C# 11.05.2021\AULA 05\exercicio resolvido\exercicio04.aula05\obj\Release\exercicio04.aula05.exe
+C:\Users\guest01\Desktop\ENTRA21 C# 11.05.2021\AULA 05\exercicio resolvido\exercicio04.aula05\obj\Release\exercicio04.aula05.pdb

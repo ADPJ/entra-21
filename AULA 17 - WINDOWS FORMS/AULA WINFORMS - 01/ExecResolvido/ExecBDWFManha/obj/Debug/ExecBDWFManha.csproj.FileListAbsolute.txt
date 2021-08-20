@@ -1,0 +1,10 @@
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\bin\Debug\ExecBDWFManha.exe.config
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\bin\Debug\ExecBDWFManha.exe
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\bin\Debug\ExecBDWFManha.pdb
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\obj\Debug\ExecBDWFManha.csprojAssemblyReference.cache
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\obj\Debug\ExecBDWFManha.Form1.resources
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\obj\Debug\ExecBDWFManha.Properties.Resources.resources
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\obj\Debug\ExecBDWFManha.csproj.GenerateResource.cache
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\obj\Debug\ExecBDWFManha.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\obj\Debug\ExecBDWFManha.exe
+C:\Users\victor.schmitt\source\repos\ExecBDWFManha\obj\Debug\ExecBDWFManha.pdb

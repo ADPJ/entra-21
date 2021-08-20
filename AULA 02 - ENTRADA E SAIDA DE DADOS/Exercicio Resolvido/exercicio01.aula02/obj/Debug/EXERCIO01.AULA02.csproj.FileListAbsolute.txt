@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\EXERCIO01.AULA02\bin\Debug\EXERCIO01.AULA02.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\EXERCIO01.AULA02\bin\Debug\EXERCIO01.AULA02.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\EXERCIO01.AULA02\bin\Debug\EXERCIO01.AULA02.pdb
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\EXERCIO01.AULA02\obj\Debug\EXERCIO01.AULA02.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\EXERCIO01.AULA02\obj\Debug\EXERCIO01.AULA02.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\EXERCIO01.AULA02\obj\Debug\EXERCIO01.AULA02.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 02\EXERCIO01.AULA02\obj\Debug\EXERCIO01.AULA02.pdb
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 03\Exercicios Resolvido\exercicio01.aula02\bin\Debug\EXERCIO01.AULA02.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 03\Exercicios Resolvido\exercicio01.aula02\bin\Debug\EXERCIO01.AULA02.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 03\Exercicios Resolvido\exercicio01.aula02\bin\Debug\EXERCIO01.AULA02.pdb
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 03\Exercicios Resolvido\exercicio01.aula02\obj\Debug\EXERCIO01.AULA02.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 03\Exercicios Resolvido\exercicio01.aula02\obj\Debug\EXERCIO01.AULA02.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 03\Exercicios Resolvido\exercicio01.aula02\obj\Debug\EXERCIO01.AULA02.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 03\Exercicios Resolvido\exercicio01.aula02\obj\Debug\EXERCIO01.AULA02.pdb

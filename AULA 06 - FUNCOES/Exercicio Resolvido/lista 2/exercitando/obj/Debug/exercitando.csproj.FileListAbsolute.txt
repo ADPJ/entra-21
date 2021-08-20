@@ -1,0 +1,7 @@
+C:\Users\guest01\Desktop\ENTRA21 C# 18.05.2021\AULA 06\Exercicio Resolvido\lista 2\exercitando\bin\Debug\exercitando.exe.config
+C:\Users\guest01\Desktop\ENTRA21 C# 18.05.2021\AULA 06\Exercicio Resolvido\lista 2\exercitando\bin\Debug\exercitando.exe
+C:\Users\guest01\Desktop\ENTRA21 C# 18.05.2021\AULA 06\Exercicio Resolvido\lista 2\exercitando\bin\Debug\exercitando.pdb
+C:\Users\guest01\Desktop\ENTRA21 C# 18.05.2021\AULA 06\Exercicio Resolvido\lista 2\exercitando\obj\Debug\exercitando.csprojAssemblyReference.cache
+C:\Users\guest01\Desktop\ENTRA21 C# 18.05.2021\AULA 06\Exercicio Resolvido\lista 2\exercitando\obj\Debug\exercitando.csproj.CoreCompileInputs.cache
+C:\Users\guest01\Desktop\ENTRA21 C# 18.05.2021\AULA 06\Exercicio Resolvido\lista 2\exercitando\obj\Debug\exercitando.exe
+C:\Users\guest01\Desktop\ENTRA21 C# 18.05.2021\AULA 06\Exercicio Resolvido\lista 2\exercitando\obj\Debug\exercitando.pdb

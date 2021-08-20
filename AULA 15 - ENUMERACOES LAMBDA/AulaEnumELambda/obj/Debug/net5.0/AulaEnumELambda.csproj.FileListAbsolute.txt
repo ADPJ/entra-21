@@ -1,0 +1,16 @@
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\bin\Debug\net5.0\AulaEnumELambda.exe
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\bin\Debug\net5.0\AulaEnumELambda.deps.json
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\bin\Debug\net5.0\AulaEnumELambda.runtimeconfig.json
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\bin\Debug\net5.0\AulaEnumELambda.runtimeconfig.dev.json
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\bin\Debug\net5.0\AulaEnumELambda.dll
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\bin\Debug\net5.0\ref\AulaEnumELambda.dll
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\bin\Debug\net5.0\AulaEnumELambda.pdb
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\obj\Debug\net5.0\AulaEnumELambda.csprojAssemblyReference.cache
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\obj\Debug\net5.0\AulaEnumELambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\obj\Debug\net5.0\AulaEnumELambda.AssemblyInfoInputs.cache
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\obj\Debug\net5.0\AulaEnumELambda.AssemblyInfo.cs
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\obj\Debug\net5.0\AulaEnumELambda.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\obj\Debug\net5.0\AulaEnumELambda.dll
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\obj\Debug\net5.0\ref\AulaEnumELambda.dll
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\obj\Debug\net5.0\AulaEnumELambda.pdb
+C:\Users\victor.schmitt\source\repos\AulaEnumELambda\obj\Debug\net5.0\AulaEnumELambda.genruntimeconfig.cache

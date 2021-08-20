@@ -1,0 +1,11 @@
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\bin\Debug\AulaWF04Manha.exe.config
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\bin\Debug\AulaWF04Manha.exe
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\bin\Debug\AulaWF04Manha.pdb
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\obj\Debug\AulaWF04Manha.csprojAssemblyReference.cache
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\obj\Debug\AulaWF04Manha.Form1.resources
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\obj\Debug\AulaWF04Manha.Properties.Resources.resources
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\obj\Debug\AulaWF04Manha.csproj.GenerateResource.cache
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\obj\Debug\AulaWF04Manha.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\obj\Debug\AulaWF04Manha.exe
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\obj\Debug\AulaWF04Manha.pdb
+C:\Users\victor.schmitt\source\repos\AulaWF04Manha\obj\Debug\AulaWF04Manha.Exec01.resources

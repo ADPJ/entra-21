@@ -1,0 +1,16 @@
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\bin\Debug\net5.0\AulaOOpt03Manha.exe
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\bin\Debug\net5.0\AulaOOpt03Manha.deps.json
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\bin\Debug\net5.0\AulaOOpt03Manha.runtimeconfig.json
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\bin\Debug\net5.0\AulaOOpt03Manha.runtimeconfig.dev.json
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\bin\Debug\net5.0\AulaOOpt03Manha.dll
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\bin\Debug\net5.0\ref\AulaOOpt03Manha.dll
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\bin\Debug\net5.0\AulaOOpt03Manha.pdb
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\obj\Debug\net5.0\AulaOOpt03Manha.csprojAssemblyReference.cache
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\obj\Debug\net5.0\AulaOOpt03Manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\obj\Debug\net5.0\AulaOOpt03Manha.AssemblyInfoInputs.cache
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\obj\Debug\net5.0\AulaOOpt03Manha.AssemblyInfo.cs
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\obj\Debug\net5.0\AulaOOpt03Manha.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\obj\Debug\net5.0\AulaOOpt03Manha.dll
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\obj\Debug\net5.0\ref\AulaOOpt03Manha.dll
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\obj\Debug\net5.0\AulaOOpt03Manha.pdb
+C:\Users\victor.schmitt\source\repos\AulaOOpt03Manha\obj\Debug\net5.0\AulaOOpt03Manha.genruntimeconfig.cache

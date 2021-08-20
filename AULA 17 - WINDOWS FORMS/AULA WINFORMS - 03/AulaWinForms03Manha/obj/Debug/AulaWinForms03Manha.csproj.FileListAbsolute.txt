@@ -1,0 +1,11 @@
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\bin\Debug\AulaWinForms03Manha.exe.config
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\bin\Debug\AulaWinForms03Manha.exe
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\bin\Debug\AulaWinForms03Manha.pdb
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\obj\Debug\AulaWinForms03Manha.csprojAssemblyReference.cache
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\obj\Debug\AulaWinForms03Manha.Exec02.resources
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\obj\Debug\AulaWinForms03Manha.Form1.resources
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\obj\Debug\AulaWinForms03Manha.Properties.Resources.resources
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\obj\Debug\AulaWinForms03Manha.csproj.GenerateResource.cache
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\obj\Debug\AulaWinForms03Manha.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\obj\Debug\AulaWinForms03Manha.exe
+C:\Users\victor.schmitt\source\repos\AulaWinForms03Manha\obj\Debug\AulaWinForms03Manha.pdb

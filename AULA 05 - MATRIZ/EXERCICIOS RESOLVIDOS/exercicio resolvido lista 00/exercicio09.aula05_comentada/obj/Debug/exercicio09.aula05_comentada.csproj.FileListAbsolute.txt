@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio09.aula05_comentada\bin\Debug\exercicio09.aula05_comentada.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio09.aula05_comentada\bin\Debug\exercicio09.aula05_comentada.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio09.aula05_comentada\bin\Debug\exercicio09.aula05_comentada.pdb
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio09.aula05_comentada\obj\Debug\exercicio09.aula05_comentada.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio09.aula05_comentada\obj\Debug\exercicio09.aula05_comentada.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio09.aula05_comentada\obj\Debug\exercicio09.aula05_comentada.exe
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\AULA 05\Exedrcicios Resolvidos\exercicio resolvido lista 00\exercicio09.aula05_comentada\obj\Debug\exercicio09.aula05_comentada.pdb

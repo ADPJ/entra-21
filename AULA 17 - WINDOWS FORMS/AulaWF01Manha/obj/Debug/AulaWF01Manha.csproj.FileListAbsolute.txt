@@ -1,0 +1,20 @@
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\bin\Debug\AulaWF01Manha.exe.config
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\bin\Debug\AulaWF01Manha.exe
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\bin\Debug\AulaWF01Manha.pdb
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\obj\Debug\AulaWF01Manha.csprojAssemblyReference.cache
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\obj\Debug\AulaWF01Manha.Form1.resources
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\obj\Debug\AulaWF01Manha.Properties.Resources.resources
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\obj\Debug\AulaWF01Manha.csproj.GenerateResource.cache
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\obj\Debug\AulaWF01Manha.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\obj\Debug\AulaWF01Manha.exe
+C:\Users\victor.schmitt\source\repos\AulaWF01Manha\obj\Debug\AulaWF01Manha.pdb
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\bin\Debug\AulaWF01Manha.exe.config
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\bin\Debug\AulaWF01Manha.exe
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\bin\Debug\AulaWF01Manha.pdb
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\obj\Debug\AulaWF01Manha.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\obj\Debug\AulaWF01Manha.Form1.resources
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\obj\Debug\AulaWF01Manha.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\obj\Debug\AulaWF01Manha.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\obj\Debug\AulaWF01Manha.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\obj\Debug\AulaWF01Manha.exe
+C:\Users\david\OneDrive\Documentos\ENTRA21 C#\AULA 17 - WINDOWS FORMS\AulaWF01Manha\obj\Debug\AulaWF01Manha.pdb

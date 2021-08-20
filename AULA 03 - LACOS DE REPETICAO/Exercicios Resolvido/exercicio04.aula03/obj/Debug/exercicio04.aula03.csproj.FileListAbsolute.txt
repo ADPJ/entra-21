@@ -1,0 +1,2 @@
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 03\exercicio04.aula03\obj\Debug\exercicio04.aula03.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\ENTRA21 C#\EXERCICIOS\AULA 03\exercicio04.aula03\obj\Debug\exercicio04.aula03.csproj.CoreCompileInputs.cache
